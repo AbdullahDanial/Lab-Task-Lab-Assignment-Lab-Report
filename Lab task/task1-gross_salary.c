@@ -9,3 +9,4 @@ int main()
     gross_salary=basic_salary-allowance-house_rent;
     printf("Gross salary :%.3lf",gross_salary);
 }
+
