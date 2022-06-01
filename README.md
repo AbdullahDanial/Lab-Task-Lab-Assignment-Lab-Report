@@ -10,13 +10,16 @@ Lab Assignment :
 
 3.Write a program in C to display the n terms of odd natural number and their sum .
 
-4.Write a program in C to make such a pattern like a pyramid with numbers increased by 1
+4.Write a program in C to make such a pattern like a pyramid with numbers increased by 
 
+1
 2 3
 4 5 6
 7 8 9 10
 
 5.Write a program in C to make such a pattern like a pyramid with an asterisk.
+
+
  *
  * *
  * * *
