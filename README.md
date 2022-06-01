@@ -71,23 +71,32 @@ Lab Task-2
 1.If cost price and selling price of an item is input through the keyboard, write aprogram to
 determine whether the seller has made profit or incurred loss. Also determine how much profit
 he made or loss he incurred.
+
 2. Any integer is input through the keyboard. Write a program to find out whether itis an odd
 number or even number.
+
 3. Any year is input through the keyboard. Write a program to determine whether the year is a
 leap year or not.
+
 4. A five-digit number is entered through the keyboard. Write a program to obtain the reversed
 number and to determine whether the original and reversed numbers are equal or not.
+
 5. If the ages of Arif, Fahmid and Joy are input through the keyboard, write a program to
 determine the youngest of the three.
+
 6. Write a program to check whether a triangle is valid or not, when the three angles of the
 triangle are entered through the keyboard. A triangle is valid if the sum of all the three angles is
 equal to 180 degrees.
+
 7. Given three points (x1, y1), (x2, y2) and (x3, y3), write a program to check if all the three
 points fall on one straight line.
+
 8.Write a program to check the area of the triangle is greater than the perimeter of the triangle.
+
 
 9.Any character is entered through the keyboard, write a program to determine whether the
 character entered is a capital letter ,a small case letter , a digit or a special symbol.
+
 10. Write a program to find out your grade in final exam. Taking the marks input from user.
 Follow DIU grading method.
                     
