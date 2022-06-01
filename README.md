@@ -10,7 +10,7 @@ Lab Assignment :
 
 3.Write a program in C to display the n terms of odd natural number and their sum .
 
-4.Write a program in C to make such a pattern like a pyramid with numbers increased by 
+4.Write a program in C to make such a pattern like a pyramid with numbers increased by  
 
 1
 2 3
@@ -27,7 +27,7 @@ Lab Assignment :
 
 6.Write a program in C to display the n terms of even natural number and their sum.
 
-7.Write a C program to print prime number from 1 to 200
+7.Write a C program to print prime number from 1 to 200.
 
 
 Lab Task -1 :
